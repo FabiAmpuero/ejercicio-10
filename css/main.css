@@ -33,3 +33,29 @@ label {
 .row {
     padding-bottom: 10px;
 }
+.link-codigo {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+    display: block;
+    font-family: "Amatic SC";
+}
+.link-codigo:hover {
+    color: red;
+    text-decoration: none;
+}
+.btn-links {
+    color: #123ac1;
+    font-size: 23px;
+    background: aqua;
+    padding: 8px;
+    border-radius: 5px;
+}
+.btn-links:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.btn-sgte {
+    float: right;
+}
